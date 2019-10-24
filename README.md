@@ -39,4 +39,4 @@ We recommend that you test the custom command on your local machine before you u
 
 4. Select *command.dll* that you built in the previous section.
 
-5. On the command line, enter TEST. If the plug-in executes as designed, a text file containing the layer names is generated. The file is typically saved in the folder that you most recently interacted with in AutoCAD.
+5. On the AutoCAD command line, enter TEST. If the plug-in executes as designed, a text file containing the layer names is generated. The file is typically saved in the folder that you most recently interacted with in AutoCAD.
