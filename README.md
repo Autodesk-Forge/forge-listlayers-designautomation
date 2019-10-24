@@ -32,7 +32,7 @@ We recommend that you test the custom command on your local machine before you u
 
 1. Start AutoCAD. (This code sample was tested with AutoACD 2020)
 
-2. Open a drawing file. You can use any of the drawing files that are provided in the *Sample* folder of AutoACD). Alternatively, you can use the drawing file provided in the [demo_data folder](demo_data) of this repository.
+2. Open a drawing file. You can use any of the drawing files from [the AutoCAD samples page](https://knowledge.autodesk.com/support/autocad/downloads/caas/downloads/content/autocad-sample-files.html).
 
 3. On the AutoCAD command line, enter NETLOAD.
 
