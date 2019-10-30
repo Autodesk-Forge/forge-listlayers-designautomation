@@ -1,6 +1,4 @@
 # ListLayers CRX Plug-in for Design Automation
-
-[![Design Automation](https://img.shields.io/badge/Design%20Automation-v3-green.svg)](http://developer.autodesk.com/)
 [![visual studio](https://img.shields.io/badge/Visual%20Studio-2017-yellowgreen.svg)](https://www.visualstudio.com/)
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-2020-DF1B22.svg)](http://developer.autodesk.com/)
 [![License](https://img.shields.io/:license-mit-red.svg)](http://opensource.org/licenses/MIT)
@@ -8,7 +6,7 @@
 
 ## Description
 
-An AutoCAD CRX Plug-in that implements an AutoCAD custom command named TEST. This command extracts the layer names from the current drawing and saves them to a text file.
+This repository contains a simple AutoCAD CRX plug-in for use with the [Design Automation for AutoCAD tutorial](https://forge.autodesk.com/en/docs/design-automation/v3/tutorials/autocad/). The plug-in implements an AutoCAD custom command named LISTLAYERS. This command extracts layer names from the current drawing and saves them to a text file.
 
 ## Dependencies
 
