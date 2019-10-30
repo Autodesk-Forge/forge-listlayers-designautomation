@@ -3,7 +3,8 @@
 [![Design Automation](https://img.shields.io/badge/Design%20Automation-v3-green.svg)](http://developer.autodesk.com/)
 [![visual studio](https://img.shields.io/badge/Visual%20Studio-2017-yellowgreen.svg)](https://www.visualstudio.com/)
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-2020-DF1B22.svg)](http://developer.autodesk.com/)
-[![License](http://img.shields.io/:license-mit-red.svg)](http://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/:license-mit-red.svg)](http://opensource.org/licenses/MIT)
+
 
 ## Description
 
@@ -32,10 +33,10 @@ We recommend that you test the custom command on your local machine before you u
 
 1. Start AutoCAD. (This code sample was tested with AutoACD 2020)
 
-2. Open a drawing file. You can use any of the drawing files that are provided in the *Sample* folder of AutoACD). Alternatively, you can use the drawing file provided in the [demo_data folder](demo_data) of this repository.
+2. Open a drawing file. You can use any of the drawing files from [the AutoCAD samples page](https://knowledge.autodesk.com/support/autocad/downloads/caas/downloads/content/autocad-sample-files.html).
 
 3. On the AutoCAD command line, enter NETLOAD.
 
 4. Select *command.dll* that you built in the previous section.
 
-5. On the command line, enter TEST. If the plug-in executes as designed, a text file containing the layer names is generated. The file is typically saved in the folder that you most recently interacted with in AutoCAD.
+5. On the AutoCAD command line, enter TEST. If the plug-in executes as designed, a text file containing the layer names is generated. The file is typically saved in the folder that you most recently interacted with in AutoCAD.
