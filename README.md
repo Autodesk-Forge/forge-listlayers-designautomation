@@ -25,7 +25,7 @@ This repository contains a simple AutoCAD CRX plug-in for use with the [Design A
 
 5. Build the solution. 
 
-## Testing whether the custom command works
+## Testing the Custom Command
 
 We recommend that you test the custom command on your local machine before you use it in Design Automation.
 
