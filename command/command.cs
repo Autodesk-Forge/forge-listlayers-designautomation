@@ -8,8 +8,8 @@ namespace CrxApp
 {
     public class Commands
     {
-        [CommandMethod("MyTestCommands", "test", CommandFlags.Modal)]
-        static public void Test()
+        [CommandMethod("MyCommands", "listlayers", CommandFlags.Modal)]
+        static public void ListLayers()
         {
             var doc = Application.DocumentManager.MdiActiveDocument;
             var ed = doc.Editor;
