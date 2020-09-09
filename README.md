@@ -29,7 +29,7 @@ This repository contains C# project of a simple AutoCAD CRX plug-in for use with
 
 We recommend that you test the custom command on your local machine before you use it in Design Automation.
 
-1. Start AutoCAD. (This code sample was tested with AutoACD 2020)
+1. Start AutoCAD. (This code sample was tested with AutoCAD 2020)
 
 2. Open a drawing file. You can use any of the drawing files from [the AutoCAD samples page](https://knowledge.autodesk.com/support/autocad/downloads/caas/downloads/content/autocad-sample-files.html).
 
